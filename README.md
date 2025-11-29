@@ -1,5 +1,3 @@
-<!-- <p align="center"> --> <img src="https://i.imgur.com/NRxW5a3.png" width="100%" />/</p>
-
 <h1 align="center">Hi, I'm Abhinendra Singh Chauhan 👋</h1>
 
 <p align="center">
