@@ -8,10 +8,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=abhinendra9792.abhinendra9792&left_color=black&right_color=blue" alt="Profile Views" />
-</p>
-
 ---
 
 ### 🚀 About Me
