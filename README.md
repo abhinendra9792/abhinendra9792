@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=336791&center=true&vCenter=true&width=600&lines=B.Tech+CSE+(Gen+AI)+at+LPU;Building+Scalable+AI+Solutions;Microsoft+Azure+Certified;Tech+Community+Leader" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=336791&center=true&vCenter=true&width=900&lines=Aspiring+AI+Engineer;Generative+AI+Student;Passionate+about+AI+%26+Machine+Learning+and+Deep+Learning+and+Data+Science" alt="Typing SVG" />
   </a>
 </p>
 
@@ -24,14 +24,14 @@ I hold Microsoft certifications (AZ-900, AI-900, DP-900) and continuously explor
 
 ---
 
-### 🔗 Connect With Me
+### 🔗 Let's Connect
 
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/abhinendrasingh9792">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://i.imgur.com/K70tI4D.png" width="400" alt="Connect on LinkedIn" />
   </a>
   <a href="mailto:abhinendra1101@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://i.imgur.com/oW7M8P0.png" width="400" alt="Email Me" />
   </a>
 </p>
 
