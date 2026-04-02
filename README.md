@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi,%20I'm%20Abhinendra!&fontSize=50&animation=fadeIn&fontAlignY=38&desc=GenAI%20Specialist%20|%20Cloud%20Developer&descAlignY=55&descAlign=50" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi,%20I'm%20Abhinendra!&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Aspiring%20AI%20Engineer%20|%20Generative%20AI%20Student&descAlignY=55&descAlign=50" width="100%" />
 </p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=336791&center=true&vCenter=true&width=900&lines=Aspiring+AI+Engineer;Generative+AI+Student;Passionate+about+AI+%26+Machine+Learning+and+Deep+Learning+and+Data+Science" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=336791&center=true&vCenter=true&width=800&lines=Passionate+about+AI+%26+Machine+Learning+and+Deep+Learning+and+Data+Science" alt="Typing SVG" />
   </a>
 </p>
 
