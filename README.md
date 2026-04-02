@@ -28,10 +28,11 @@ I hold Microsoft certifications (AZ-900, AI-900, DP-900) and continuously explor
 
 <p align="center">
   <a href="https://www.linkedin.com/in/abhinendrasingh9792">
-    <img src="https://i.imgur.com/K70tI4D.png" width="400" alt="Connect on LinkedIn" />
+    <img src="https://raw.githubusercontent.com/abhinendra9792/abhinendra9792/main/linkedin.png" width="80" />
   </a>
+
   <a href="mailto:abhinendra1101@gmail.com">
-    <img src="https://i.imgur.com/oW7M8P0.png" width="400" alt="Email Me" />
+    <img src="https://raw.githubusercontent.com/abhinendra9792/abhinendra9792/main/email.png" width="80" />
   </a>
 </p>
 
