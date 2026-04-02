@@ -28,11 +28,11 @@ I hold Microsoft certifications (AZ-900, AI-900, DP-900) and continuously explor
 
 <p align="center">
   <a href="https://www.linkedin.com/in/abhinendrasingh9792">
-    <img src="https://raw.githubusercontent.com/abhinendra9792/abhinendra9792/main/linkedin.png" width="80" />
+    <img src="https://raw.githubusercontent.com/abhinendra9792/abhinendra9792/main/linkedin.png" width="60" alt="LinkedIn" />
   </a>
-
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:abhinendra1101@gmail.com">
-    <img src="https://raw.githubusercontent.com/abhinendra9792/abhinendra9792/main/email.png" width="80" />
+    <img src="https://raw.githubusercontent.com/abhinendra9792/abhinendra9792/main/email.png" width="60" alt="Email" />
   </a>
 </p>
 
@@ -115,14 +115,15 @@ I hold Microsoft certifications (AZ-900, AI-900, DP-900) and continuously explor
 
 ### 📈 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhinendra9792&show_icons=true&theme=transparent&hide_border=true&title_color=336791&icon_color=336791&text_color=000000" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinendra9792&layout=compact&theme=transparent&hide_border=true&title_color=336791&text_color=000000" height="165" alt="Top Languages" />
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=abhinendra9792&theme=dark&hide_border=true" alt="GitHub Streak" />
+  
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=abhinendra9792&theme=transparent&hide_border=true&fire=336791&ring=336791" height="160" alt="GitHub Streak" />
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhinendra9792&theme=react-dark&hide_border=true&hide_title=true" alt="Activity Graph" />
+</p>
+
+---
 
 <p align="center">
   <i>Let's build something amazing together!</i>
