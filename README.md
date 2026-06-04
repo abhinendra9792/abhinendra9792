@@ -16,7 +16,7 @@ I am a B.Tech CSE undergraduate specializing in Generative AI at Lovely Professi
 
 My expertise includes Python, Machine Learning, Deep Learning, NLP, Computer Vision, and Cloud-based AI architectures, with hands-on experience in designing scalable, user-centric systems. I enjoy integrating AI models into real applications, optimizing performance, and creating complete end-to-end solutions from backend logic to deployment.
 
-I hold Microsoft certifications (AZ-900, AI-900, DP-900) and continuously explore advanced areas like Generative AI, deep learning, and AI system design. I am passionate about building innovative, industry-ready AI products that create meaningful real-world impact.
+I hold Microsoft certifications 𝗔𝘇𝘂𝗿𝗲 𝗙𝘂𝗻𝗱𝗮𝗺𝗲𝗻𝘁𝗮𝗹(AZ-900), 𝗔𝘇𝘂𝗿𝗲 𝗔𝗜 𝗙𝘂𝗻𝗱𝗮𝗺𝗲𝗻𝘁𝗮𝗹𝘀(𝗔𝗜-𝟵𝟬𝟬), 𝗔𝘇𝘂𝗿𝗲 𝗗𝗮𝘁𝗮 𝗙𝘂𝗻𝗱𝗮𝗺𝗲𝗻𝘁𝗮𝗹𝘀(DP-900) and 𝐀𝐳𝐮𝐫𝐞 𝐀𝐈 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫 𝐀𝐬𝐬𝐨𝐜𝐢𝐚𝐭𝐞 (𝐀𝐈-𝟏𝟎𝟐) and continuously explore advanced areas like Generative AI, deep learning, and AI system design. I am passionate about building innovative, industry-ready AI products that create meaningful real-world impact.
 
 ---
 
